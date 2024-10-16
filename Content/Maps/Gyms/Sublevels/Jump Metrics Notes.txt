@@ -8,8 +8,20 @@ Double jump : 7 blocks max
 Regular jump height : 1 block
 Double jump height : 2 blocks
 
-Fall damage : 5,5 blocks Min ; 12,5 blocks Max
 
 Regular jump, 1 block height : 3,5 blocks Max
 Double jump, 1 block height : 6,5 blocks Max
 Double jump, 2 block height : 6,5 blocks Max
+
+/-/
+
+Regular jump + sprint : 7 blocks max
+Double jump + sprint : 10.5 blocks max
+
+Regular jump, 1 block height + sprint : 5 blocks Max
+Double jump, 1 block height + sprint : 10 blocks Max (Difficult)
+Double jump, 2 block height + sprint : 8,5 blocks Max (Difficult)
+
+/-/
+
+Fall damage : 5,5 blocks Min ; 12,5 blocks Max
